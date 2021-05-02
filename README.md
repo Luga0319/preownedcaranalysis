@@ -6,3 +6,6 @@ I preprocessed the dataset including eliminate outliers at (year, price, etc), n
 I used Linear Regression with all the features to get the baseline of the modeling with RMSE = 9033.42
 ## Third Step: Multiple Machine Learning Models
 I used KNN, XGBoost and Random Forest models with cross validation to predict the price, and evaluate different models by comparing their RMSE scores. The best model is Random Forest. 
+## Forth Step: Model Evaluation 
+At last, I evaluate different models with RMSE, MAE and MSE
+
